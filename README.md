@@ -1,19 +1,19 @@
-# 🌾 AgriWaste2Fuel – Smart Farm Waste Tracker & Bio-Fertilizer Planner
+# AgriWaste2Fuel – Smart Farm Waste Tracker & Bio-Fertilizer Planner
 
 **Annam.Ai Hackathon-Based Internship Project – Group 3A**  
 **Date:** 6th September 2025
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 **AgriWaste2Fuel** is an AI-powered platform that helps farmers detect, classify, and manage agricultural waste in an eco-friendly way. It guides them on whether to compost or convert the waste into biogas and estimates the environmental benefits like GHG emission savings and carbon credit potential.
 
-> ⚠️ **Note:** This is currently an idea-stage project under active brainstorming and planning. The implementation will follow in the coming weeks.
+> ⚠️**Note:** This is currently an idea-stage project under active brainstorming and planning. The implementation will follow in the coming weeks.
 
 ---
 
-## 🌱 Problem Statement
+##  Problem Statement
 
 > **Domain:** Agriculture & Environment  
 > **Challenge:** Efficient farm waste management with environmental benefit tracking.
@@ -26,7 +26,7 @@ We aim to build a **smart waste converter** that:
 
 ---
 
-## 👥 Team Members – Group 3A
+## Team Members – Group 3A
 
 | Name             | Email                             | Phone       | Institution & Year                            |
 |------------------|------------------------------------|-------------|-----------------------------------------------|
@@ -36,20 +36,20 @@ We aim to build a **smart waste converter** that:
 | Barun Saha       | barun.vsaha@gmail.com              | 8708322197  | VIT Chennai, Mechatronics – 4th Year          |
 | Bibaswan Das     | bibaswand04@gmail.com              | 7044895853  | VIT Chennai, CSE – 4th Year                   |
 
-> 💡 **GitHub Links:** To be added after repository setup.
+> **GitHub Links:** To be added after repository setup.
 
 ---
 
-## 🧑‍🏫 Mentor
+## Mentor
 
-**Name:** Not mentioned  
+**Name:** Dr. Niranjan Deshpande 
 **Contribution:** Provided weekly guidance, helped in refocusing on core objectives and practical implementation.
 
 ---
 
-## 📅 Week 1 Summary – Internship Kickoff
+## Week 1 Summary – Internship Kickoff
 
-### ✅ Activities Completed
+### Activities Completed
 - Brainstormed real-world farmer problems in Maharashtra.
 - Finalized the idea: biogas + compost + GHG + credit.
 - Designed architecture for decision engine.
@@ -58,19 +58,19 @@ We aim to build a **smart waste converter** that:
 - Explored initial models for yield prediction.
 - Visualized project flow and interfaces.
 
-### 🧠 Challenges Faced
+### Challenges Faced
 - Lack of open datasets for biogas/compost yield.
 - Balancing core vs extra features.
 - Aligning the team focus during ideation.
 
-### 🙌 Mentor Guidance
+### Mentor Guidance
 - Encouraged us to center the project around **real-world utility**.
 - Suggested using **regression models** for estimating output.
 - Recommended **farmer-first design** over complex ML.
 
 ---
 
-## 🧩 System Modules
+## System Modules
 
 ### 1. **Farm Waste Detection & Classification**
 - Image-based detection (YOLOv8)
@@ -93,7 +93,7 @@ We aim to build a **smart waste converter** that:
 
 ---
 
-## 🛠️ Tech Stack (Proposed)
+## Tech Stack (Proposed)
 
 | Component        | Tools/Frameworks                            |
 |------------------|---------------------------------------------|
@@ -107,7 +107,7 @@ We aim to build a **smart waste converter** that:
 
 ---
 
-## 📊 Expected Output
+## Expected Output
 
 - Waste category & quantity
 - Recommended waste treatment method
@@ -117,7 +117,7 @@ We aim to build a **smart waste converter** that:
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 
 1. Complete team GitHub repository setup.
 2. Implement Module 1 (YOLOv8 + manual input system).
@@ -127,7 +127,7 @@ We aim to build a **smart waste converter** that:
 
 ---
 
-## 🤝 Contribution Guidelines
+## Contribution Guidelines
 
 - All team members will commit weekly updates.
 - Use feature branches and pull requests for collaboration.
@@ -135,13 +135,7 @@ We aim to build a **smart waste converter** that:
 
 ---
 
-## 📜 License
-
-[To be added – MIT or Apache 2.0 recommended]
-
----
-
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 Thanks to the **Annam.Ai team** and our **mentors** for providing this opportunity and guidance to innovate on real-world agricultural challenges.
 
