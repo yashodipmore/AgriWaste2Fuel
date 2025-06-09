@@ -32,7 +32,7 @@ We aim to build a **smart waste converter** that:
 |------------------|------------------------------------|-------------|-----------------------------------------------|
 | Yashodip More    | yashodipmore2004@gmail.com         | 7820811636  | R.C. Patel Institute of Technology, 4th Year  |
 | Komal Kumavat    | komalkumavat025@gmail.com          | 9860690939  | R.C. Patel Institute of Technology, 4th Year  |
-| S.M. Sakthivel   | m.sakthivelofficial@gmail.com      | 7418194398  | [Add College Name], [Course & Year]           |
+| S.M. Sakthivel   | m.sakthivelofficial@gmail.com      | 7418194398  | Achariya college of engineering technology, 4th Year           |
 | Barun Saha       | barun.vsaha@gmail.com              | 8708322197  | VIT Chennai, Mechatronics – 4th Year          |
 | Bibaswan Das     | bibaswand04@gmail.com              | 7044895853  | VIT Chennai, CSE – 4th Year                   |
 
